@@ -40,7 +40,7 @@ serverest-test-project/
 1. Clone o repositório:
 ```bash
 git clone https://github.com/aledavibe/robot-serverest-tests.git
-cd robot-serverest-test-tests
+cd robot-serverest-tests
 ```
 
 2. Instale as dependências:
